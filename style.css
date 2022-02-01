@@ -18,6 +18,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: 5px solid rgb(146, 112, 138);
 }
 table {
     margin-left:auto;
@@ -36,6 +37,6 @@ hr {
 }
 .odd {
     font-family: 'Courier New', Courier, monospace;
-    background-color:rgb(120, 152, 160);
+    background-color:rgb(146, 112, 138);
     color:white;
 }
